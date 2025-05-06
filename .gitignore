@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.so
+
+#Virtual environments
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+data/*.csv
+
+# Environment files
+*.env
+.env
