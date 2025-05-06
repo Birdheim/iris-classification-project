@@ -5,7 +5,6 @@ This project explores the classic Iris datset uisng varoius classification algor
 
 It serves as a hands-on exercise to practice supervised learning, model evaluation, and exploratory data analysis using Python and `scikit-learn`
 
----
 
 ## 🧠 Project Objectives
 - Visualize and understand the structure of the dataset.
@@ -14,7 +13,6 @@ It serves as a hands-on exercise to practice supervised learning, model evaluati
 - Use cross-validation and hyperparameter tuning to optimize performance.
 - Gain experience applying theoretical ML knowledge to a real dataset.
 
----
 
 ## 📁 Project Structure
 project_name/
@@ -32,12 +30,12 @@ project_name/
 ├── README.md
 └── .gitignore
 
----
 
 ## 📦 Setup
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## 📝 Conclusion
 At the end of the project, results are analyzed to determine the most effective model and identify potential areas for improvement.
