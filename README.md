@@ -28,5 +28,3 @@ pip install -r requirements.txt
 
 ## Conclusion
 At the end of the project, results are analyzed to determine the most effective model and identify potential areas for improvement.
-
-
