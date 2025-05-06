@@ -15,7 +15,8 @@ It serves as a hands-on exercise to practice supervised learning, model evaluati
 
 
 ## 📁 Project Structure
-project_name/
+```
+iris-classification-project/
 ├── data/  (CSV version of the Iris dataset)
 │   └── iris.csv
 ├── notebooks/  (Jupyter notebooks for EDA and training)
@@ -29,7 +30,7 @@ project_name/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ## 📦 Setup
 ```bash
