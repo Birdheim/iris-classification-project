@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+xgboost
+lightgbm
+notebook
+ipykernel
+scipy
+tqdm
+scikit-plot
